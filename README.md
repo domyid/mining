@@ -25,7 +25,8 @@ chmod a+x pkg.sh
 
 ## MicroBitCoin
 
-![image](https://github.com/user-attachments/assets/0832680f-508e-40fa-9a30-d03e73937ba7)
+![image](https://github.com/user-attachments/assets/0832680f-508e-40fa-9a30-d03e73937ba7)  
+![image](https://github.com/user-attachments/assets/0e856eb8-63f3-4e51-aa49-94836e49330a)
 
 Anda bisa menggunakan [WonPay wallet](https://wonpay.io/) untuk mendapatkan wallet address. Disini dicontohkan wallet address menggunakan alamat **BXheTnryBeec7Ere3zsuRmWjB1LiyCFpec**
 ```sh
