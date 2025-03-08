@@ -31,8 +31,8 @@ Anda bisa menggunakan [WonPay wallet](https://wonpay.io/) untuk mendapatkan wall
 ```sh
 ./cpuminer -a power2b -o stratum+tcp://power2b.sea.mine.zpool.ca:6242 -u BXheTnryBeec7Ere3zsuRmWjB1LiyCFpec -p c=MBC,zap=MBC
 ```
-Monitor proses mining di [pool](https://zpool.ca/wallet/BXheTnryBeec7Ere3zsuRmWjB1LiyCFpec)
-Cek jurnal transaksi di [explorer](https://microbitcoinorg.github.io/explorer/)
+* Monitor proses mining di [pool](https://zpool.ca/wallet/BXheTnryBeec7Ere3zsuRmWjB1LiyCFpec)
+* Cek jurnal transaksi di [explorer](https://microbitcoinorg.github.io/explorer/)
 
 ## Ravencoin
 
