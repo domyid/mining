@@ -1,4 +1,6 @@
-# mining
+# Mining Coin
+
+Coin yang standar digunakan disini adalah MBC dan RVN.
 Tools yang digunakan:
 [JayDDee](https://github.com/JayDDee/cpuminer-opt/releases)
 
