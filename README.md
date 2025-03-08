@@ -46,8 +46,3 @@ Crionic
 ```sh
 ./cpuminer --algo yespower --algo yespower --param-n 2048 --param-r 32 --param-key "LTNCGYES" -o stratum+tcp://yespowerLTNCG.sea.mine.zpool.ca:6245 -u RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j -p c=RVN,zap=CRNC
 ```
-
-Kyla
-```sh
-./cpuminer --algo yespowerr16 -o stratum+tcp://yespowerR16.sea.mine.zpool.ca:6534 -u RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j -p c=RVN
-```
