@@ -31,6 +31,7 @@ Anda bisa menggunakan WonPay wallet untuk mendapatkan wallet address
 ```sh
 ./cpuminer -a power2b -o stratum+tcp://power2b.sea.mine.zpool.ca:6242 -u BXheTnryBeec7Ere3zsuRmWjB1LiyCFpec -p c=MBC,zap=MBC
 ```
+Monitor proses mining di [pool](https://zpool.ca/wallet/BXheTnryBeec7Ere3zsuRmWjB1LiyCFpec)
 
 ## Ravencoin
 
