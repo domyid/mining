@@ -23,9 +23,18 @@ chmod a+x pkg.sh
 ./pkg.sh
 ```
 
-## Zpool
+## MicroBitCoin
 
-Keungulan Zpool adalah limit payout yang kecil, sehingga kita bisa dibayar walaupun hasil mining sedikit.
+![image](https://github.com/user-attachments/assets/0832680f-508e-40fa-9a30-d03e73937ba7)
+
+Anda bisa menggunakan WonPay wallet untuk mendapatkan wallet address
+```sh
+./cpuminer -a power2b -o stratum+tcp://power2b.sea.mine.zpool.ca:6242 -u BXheTnryBeec7Ere3zsuRmWjB1LiyCFpec -p c=MBC,zap=MBC
+```
+
+## Ravencoin
+
+Anda bisa menggunakan trust wallet atau yang lainnya untuk mendapatkan wallet address
 
 SugarChain
 ```sh
