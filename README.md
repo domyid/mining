@@ -29,10 +29,25 @@ Keungulan Zpool adalah limit payout yang kecil, sehingga kita bisa dibayar walau
 
 SugarChain
 ```sh
-cpuminer --algo yespower --param-n 2048 --param-r 32 --param-key "Satoshi Nakamoto 31/Oct/2008 Proof-of-work is essentially one-CPU-one-vote" -o stratum+tcp://yespowerSUGAR.sea.mine.zpool.ca:6241 -u RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j -p c=RVN
+./cpuminer --algo yespower --param-n 2048 --param-r 32 --param-key "Satoshi Nakamoto 31/Oct/2008 Proof-of-work is essentially one-CPU-one-vote" -o stratum+tcp://yespowerSUGAR.sea.mine.zpool.ca:6241 -u RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j -p c=RVN
 ```
 
 YenTen
 ```sh
-cpuminer --algo yespowerr16 -o stratum+tcp://yespowerR16.sea.mine.zpool.ca:6534 -u RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j -p c=RVN
+./cpuminer --algo yespowerr16 -o stratum+tcp://yespowerR16.sea.mine.zpool.ca:6534 -u RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j -p c=RVN
+```
+
+Magpie
+```sh
+./cpuminer --algo yespower --param-n 2048 --param-r 32 --param-key "Magpies are birds of the Corvidae family." -o stratum+tcp://yespowerMGPC.sea.mine.zpool.ca:6247 -u RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j -p c=RVN
+```
+
+Crionic
+```sh
+./cpuminer --algo yespower --algo yespower --param-n 2048 --param-r 32 --param-key "LTNCGYES" -o stratum+tcp://yespowerLTNCG.sea.mine.zpool.ca:6245 -u RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j -p c=RVN,zap=CRNC
+```
+
+Kyla
+```sh
+./cpuminer --algo yespowerr16 -o stratum+tcp://yespowerR16.sea.mine.zpool.ca:6534 -u RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j -p c=RVN
 ```
