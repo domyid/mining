@@ -65,3 +65,8 @@ UraniumX
 ```sh
 ./cpuminer --algo yespower --param-n 2048 --param-r 32 --param-key "UraniumX" -o stratum+tcp://yespowerURX.sea.mine.zpool.ca:6236 -u RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j -p c=RVN,zap=URX
 ```
+
+All coin GhostRider Algo
+```sh
+./cpuminer --algo gr -o stratum+tcp://ghostrider.sea.mine.zpool.ca:5354 -u RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j -p c=RVN
+```
