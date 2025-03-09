@@ -39,7 +39,7 @@ Anda bisa menggunakan [WonPay wallet](https://wonpay.io/) untuk mendapatkan wall
 
 ## Ravencoin
 
-Anda bisa menggunakan trust wallet atau yang lainnya untuk mendapatkan wallet address
+Anda bisa menggunakan trust,atomic,komodo wallet atau yang lainnya untuk mendapatkan wallet address
 
 SugarChain
 ```sh
@@ -58,5 +58,10 @@ Magpie
 
 Crionic
 ```sh
-./cpuminer --algo yespower --algo yespower --param-n 2048 --param-r 32 --param-key "LTNCGYES" -o stratum+tcp://yespowerLTNCG.sea.mine.zpool.ca:6245 -u RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j -p c=RVN,zap=CRNC
+./cpuminer --algo yespower --param-n 2048 --param-r 32 --param-key "LTNCGYES" -o stratum+tcp://yespowerLTNCG.sea.mine.zpool.ca:6245 -u RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j -p c=RVN,zap=CRNC
+```
+
+UraniumX
+```sh
+./cpuminer --algo yespower --param-n 2048 --param-r 32 --param-key "UraniumX" -o stratum+tcp://yespowerURX.sea.mine.zpool.ca:6236 -u RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j -p c=RVN,zap=URX
 ```
