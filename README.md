@@ -20,7 +20,7 @@ perintah **cpuminer** disesuaikan lagi dengan arsitektur CPU masing-masing denga
 
 Perintah Termux : download
 ```sh
-curl -O https://do.my.id/mining/pkg.sh
+curl -O https://www.do.my.id/mining/pkg.sh
 chmod a+x pkg.sh
 ./pkg.sh
 ```
