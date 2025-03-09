@@ -70,3 +70,8 @@ All coin GhostRider Algo
 ```sh
 ./cpuminer -a gr -o stratum+tcp://ghostrider.sea.mine.zpool.ca:5354 -u RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j -p c=RVN
 ```
+
+All coin Flex Algo
+```sh
+./cpuminer -a flex -o stratum+tcp://flex.sea.mine.zpool.ca:3340 -u RKJpSmjTq5MPDaBx2ubTx1msVB2uZcKA5j -p c=RVN
+```
